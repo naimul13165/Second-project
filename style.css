@@ -1,0 +1,49 @@
+.section-area {
+    width: 100%;
+    display: flex;
+}
+
+.first-section1 {
+    width: 50%;
+}
+
+.second-section2 {
+    width: 50%;
+}
+
+.img-area {
+    width: 100%;
+    margin-top: 15%;
+}
+
+.text-area {
+    margin-top: 30%;
+    margin-left: 10%;
+    color: rgb(red, green, rgba(0, 0, 255, 0));
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.span-color {
+    color: rgb(38, 255, 0);
+}
+
+.para-area {
+    font-size: 30px;
+    font-family: cursive;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    color: darkgoldenrod;
+    margin-left: 10%;
+}
+
+.order-button {
+    text-decoration: none;
+    color: black;
+    background-color: red;
+    margin-left: 13%;
+    font-size: 20px;
+    border-radius: 25px;
+    padding: 15px 30px;
+}
