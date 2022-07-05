@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 .section-area {
     width: 100%;
     display: flex;
@@ -7,7 +11,7 @@
     width: 50%;
 }
 
-.second-section2 {
+.first-section2 {
     width: 50%;
 }
 
@@ -43,6 +47,55 @@
     color: black;
     background-color: red;
     margin-left: 13%;
+    font-size: 20px;
+    border-radius: 25px;
+    padding: 15px 30px;
+}
+
+.section-area1 {
+    width: 100%;
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 80px 0px 100px 0;
+}
+
+.second-section1 {
+    width: 50%;
+}
+
+.image-area1 {
+    width: 65%;
+    margin: 44px 0px 0px 170px;
+}
+
+.second-section2 {
+    width: 50%;
+    margin: 200px 140px 100px 200px;
+    text-align: left;
+}
+
+.about {
+    color: rgb(68, 62, 62);
+    font-size: 39px;
+    margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pra-area {
+    color: rgb(50, 46, 46);
+    font-size: 20px;
+    margin-bottom: 50px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: 1.8em;
+}
+
+.Contact-button {
+    text-decoration: none;
+    color: black;
+    background-color: red;
     font-size: 20px;
     border-radius: 25px;
     padding: 15px 30px;
